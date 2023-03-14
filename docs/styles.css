@@ -1,0 +1,10 @@
+﻿body {
+    max-width: 920px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
