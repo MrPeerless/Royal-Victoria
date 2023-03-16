@@ -1,0 +1,2 @@
+C:\Users\geoff\OneDrive\Documents\Royal Victoria Residents Assoc\Website Files\Royal-Victoria\obj\x86\Debug\Royal Victoria Residents Assoc.csproj.AssemblyReference.cache
+C:\Users\geoff\OneDrive\Documents\Royal Victoria Residents Assoc\Website Files\Royal-Victoria\obj\x86\Debug\Royal Victoria Residents Assoc.csproj.CoreCompileInputs.cache

@@ -8,3 +8,11 @@ h1 {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
 }
+
+#main_container {
+    background-color: #faf4e3;
+}
+
+#footer {
+    text-align: center;
+}
